@@ -10,7 +10,6 @@ import {
   SidebarWrapper,
 } from './SidebarElements';
 
-// eslint-disable-next-line arrow-body-style
 const Sidebar = () => {
   return (
     <SidebarContainer>

@@ -38,8 +38,7 @@
       }
     ],
     "arrow-body-style": [
-      "error",
-      ""
+      0
     ],
     "no-param-reassign": [
       2,
